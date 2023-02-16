@@ -3,7 +3,7 @@
 I used the [Ergast web service](http://ergast.com/mrd/) to do this application.
 <br>
 <br>
-![](https://user-images.githubusercontent.com/72042885/219511436-d9c0edc9-ad30-4ba0-bafb-537d1b4ee721.png)
+![](https://user-images.githubusercontent.com/72042885/219511436-d9c0edc9-ad30-4ba0-bafb-537d1b4ee721.png#vitrinedev)
 <br>
 <br>
 On this website page you can find the Formula 1 2023 Drivers Standings. Here you can see the driver position, the driver's name, his constructor team and the points in this season.
