@@ -13,4 +13,4 @@ On this website page you can find the Formula 1 2023 Drivers Standings. Here you
 You can find the site by clicking <a href="https://formula1driverstandings.netlify.app">here</a>.
 <br>
 <br>
-Points will be updated after races.
+**Points will be updated after races.**
