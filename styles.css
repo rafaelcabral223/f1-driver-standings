@@ -1,0 +1,91 @@
+.title {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.container {
+    margin: 50px;
+}
+
+.table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.table-head {
+    border-bottom: 1px solid #3b3a3a;
+    font-weight: bold;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.driver-position, .driver-name, .constructor-name, .driver-points {
+    border-bottom: 1px solid #3b3a3a;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.table-row {
+    color: #3b3a3a;
+    transition: 0s background-color;
+}
+
+.table-body {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-data {
+    border-bottom: 1px solid #3b3a3a;
+    border-left: 1px solid #3b3a3a;
+    border-right: 1px solid #3b3a3a;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: larger;
+}
+
+.position {
+    font-weight: 400;
+    height: 15%; 
+    padding: 10px;
+    width: 5%;
+}
+
+.givenname {
+    font-weight: bold;
+    height: 15%; 
+    padding: 10px;
+    width: 15%;
+}
+
+.points {
+    font-weight: 400;
+    height: 15%; 
+    padding: 10px;
+    width: 5%;
+}
+
+.position1 {
+    background-color: rgba(230, 201, 36, 0.74);
+}
+
+.position2 {
+    background-color: rgba(192, 192, 192, 0.712);
+}
+
+.position3 {
+    background-color: #d18335d2;
+}
+
+.position1 .position {
+    font-size: xx-large;
+}
+
+.position2 .position {
+    font-size: x-large;
+}
+
+.position3 .position {
+    font-size: x-large;
+}
